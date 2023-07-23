@@ -1,0 +1,20 @@
+Executive Summary
+
+Overview – The toxic comments classification a project based on social media analysis aims to classify offensive and 
+abusive language on a social media post and report the accuracy of these comments or words, thereby providing leading social media 
+firms to create a safe environment for their users. 
+
+Problem Statement Summary - Social media companies faced a lot of backlashes for explicit videos, images, and comments towards 
+users and nowadays, social media companies are leaning towards providing a safer environment for their users. We build a model capable 
+of detecting and classifying toxic comments using machine learning and neural networks. To predict the occurrence and accuracy 
+of toxic comments using machine learning models.  
+
+Summary of Solution – We make use of machine learning model with artificial neural network layers to train the model and obtain 
+the best accuracy. Four different configurations were used to construct and train this model, each capable of reporting accuracy. We determined that the percentage of toxic comments/words existing in our dataset was 99.45% which was an increase from initial accuracy of 95.7%. Our aim with this was to create a safe environment for users.
+
+Methodology - Since this is a toxic comments classifier, we use python programming libraries and packages. The project constructs machine learning models and makes use of neural networks to compare the models and predict the accuracy of the comments. 
+•	Tensorflow – Tensorflow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+
+•	Tensorflow.keras – Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
+
+Results - A classification model using machine learning and LSTM layers was constructed and compared with other classification models having different configurations. A model with an accuracy of 99% was obtained and chosen as the best model. 
